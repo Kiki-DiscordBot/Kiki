@@ -5,25 +5,25 @@
 Hi! I'm Kiki✨, I'm a Cute & Powerful Discord Bot Hosted by [K᲼u᲼r᲼o᲼#2740 (732425670856147075)](https://github.com/Kuro-Rui) ![:Unicorn:](https://cdn.discordapp.com/emojis/915569740922118176.png?size=20)
 #### I Have So Many Features & Commands! 
 - Administration
-  > `editrole` , `channel create/delete/rename` , `prune` , `massmove` , `welcomeset`/`imgwelcome` , etc.
+  > `editrole` `channel create/delete/rename` `prune` `massmove` `welcomeset`/`imgwelcome`, etc.
 - Moderation
-  > `lock/unlock` , `lockdown/unlockdown` , `decancer/dehoist` , `setnick` , `freezenick` , `temprole` , `role add/remove/create/info` , `mute/unmute` , `warn/delwarn` , `kick/masskick` , `softban` , `tempban` , `ban/massban` , `massunban` , etc.
+  > `lock/unlock` `lockdown/unlockdown` `decancer/dehoist` `setnick` `freezenick` `temprole` `role add/remove/create/info` `mute/unmute` `warn/delwarn` `kick/masskick` `softban` `tempban` `ban/massban` `massunban`, etc.
 - Automod
-  > `antihonde` , `purgehonde` , `antispam` , `defender` , `deleter` , `filter` .
+  > `antihonde` `purgehonde` `antispam` `defender` `deleter` `filter`.
 - Logging
-  > `modlog` , `modlogstats` , `voicelog` .
+  > `modlog` `modlogstats` `voicelog`.
 - Utility
-  > `ping` , `invite` , `prefix` , `away/afk` , `altdentifier` , `anisearch` , `bible` , `bigmoji` , `bumpreminder` , `calc` , `chatchart` , `commandsearch` , `data` , `dictionary` , `embed` , `fifo` , `firstmessage` , `forcemention` , `highlight` , `invites` , `lastseen` , `linkquote` , `retrigger` , `remindme` , `serverstats` , `tags` , `slashtags` , `smartreact` , `snipe` , `starboard` , `sticky` , `suggestion` , `time` , `todo` , `weather` , `webhook` . 
+  > `ping` `invite` `prefix` `away/afk` `altdentifier` `anisearch` `bible` `bigmoji` `bumpreminder` `calc` `chatchart` `commandsearch` `data` `dictionary` `embed` `fifo` `firstmessage` `forcemention` `highlight` `invites` `lastseen` `linkquote` `retrigger` `remindme` `serverstats` `tags` `slashtags` `smartreact` `snipe` `starboard` `sticky` `suggestion` `time` `todo` `weather` `webhook`. 
 - Music
-  > `summon/join` , `search` , `play` , `pause` , `stop` , `nowplaying` , `queue` , `previous` , `next` , `shuffle` , `repeat` , `autoplay` , `playlist` , `disconnect` , `lyrics` , `spotify` , etc.
+  > `summon/join` `search` `play` `pause` `stop` `nowplaying` `queue` `previous` `next` `shuffle` `repeat` `autoplay` `playlist` `disconnect` `lyrics` `spotify`, etc.
 - Fun
-  > `2048` , `8ball` , `aichat` , `akinator` , `compliment` , `confession` , `connect4` , `counting` , `dadjoke` , `emojify` , `hangman` , `insult` , `kill` , `lovecalc` , `marry` , `minesweeper` , `namegenerator` , `oof` , `petpet` , `pressf` , `race` , `ratings` , `react` , `regional` , `roleplay` , `rps` , `snake` , `space` , `textflip` , `trivia` , `typerace` , `urban` , `uwu` , `vowelreplace` , etc.
+  > `2048` `8ball` `aichat` `akinator` `compliment` `confession` `connect4` `counting` `dadjoke` `emojify` `hangman` `insult` `kill` `lovecalc` `marry` `minesweeper` `namegenerator` `oof` `petpet` `pressf` `race` `ratings` `react` `regional` `roleplay` `rps` `snake` `space` `textflip` `trivia` `typerace` `urban` `uwu` `vowelreplace`, etc.
 - Currency
-  > `bank` , `allin` , `blackjack` , `casino` , `coin` , `craps` , `cups` , `dice` , `double` , `highlow` , `payday` , `payouts` , `slot` , `war` , `shop` , `addmoneyrole` , `removemoneyrole` , `cooldowns` , `work` , `crime` , `roulette`, etc.
+  > `bank` `allin` `blackjack` `casino` `coin` `craps` `cups` `dice` `double` `highlow` `payday` `payouts` `slot` `war` `shop` `addmoneyrole` `removemoneyrole` `cooldowns` `work` `crime` `roulette`, etc.
 - Images
-  > `deepfry` , `nuke (demolish)` , `gif` , `gifrandom` , `imgur`.
+  > `deepfry` `nuke (demolish)` `gif` `gifrandom` `imgur`.
 - Social
-  > `github` , `google` , `yandex` , `reddit` , `stream` , `tweet` , `twitch`.
+  > `github` `google` `yandex` `reddit` `stream` `tweet` `twitch`.
 
 ---
 ## About Red
