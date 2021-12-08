@@ -7,7 +7,7 @@ Hi! I'm Kiki✨, I'm a Cute & Powerful Discord Bot Hosted by [K᲼u᲼r᲼o᲼#2
 - Administration
   > `editrole` `channel create/delete/rename` `prune` `massmove` `welcomeset`/`imgwelcome`, etc.
 - Moderation
-  > `lock/unlock` `lockdown/unlockdown` `decancer/dehoist` `setnick` `freezenick` `temprole` `role add/remove/create/info` `mute/unmute` `warn/delwarn` `kick/masskick` `softban` `tempban` `ban/massban` `massunban`, etc.
+  > `lock/unlock` `lockdown/unlockdown` `decancer` `dehoist` `setnick` `freezenick` `temprole` `role add/remove/create/info` `mute/unmute` `warn/delwarn` `kick/masskick` `softban` `tempban` `ban/massban` `massunban`, etc.
 - Automod
   > `antihonde` `purgehonde` `antispam` `defender` `deleter` `filter`.
 - Logging
