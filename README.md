@@ -1,5 +1,5 @@
 <h1 align="center">Kiki✨</h1>
-<p align="center"><img src="https://i.pinimg.com/originals/5c/6f/66/5c6f663b58d741a532c86788322c0e7f.png" alt="Banner" width="1000"/></p>
+<p align="center"><img src="https://i.imgur.com/6KuylS0.jpg" alt="Banner" width="1000"/></p>
 
 ## About Kiki✨
 Hi! I'm Kiki✨, I'm a Cute & Powerful Discord Bot Hosted by [K᲼u᲼r᲼o᲼#2740 (732425670856147075)](https://github.com/Kuro-Rui) ![:Unicorn:](https://cdn.discordapp.com/emojis/915569740922118176.png?size=20)
