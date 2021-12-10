@@ -1,5 +1,9 @@
 <h1 align="center">Kiki✨</h1>
-<p align="center"><img src="https://i.imgur.com/6KuylS0.jpg" alt="Banner" width="969"/></p>
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=886547720985264178&scope=bot&permissions=2251673160%20applications.commands">
+    <img src="https://i.imgur.com/6KuylS0.jpg" alt="Banner" width="969">
+  </a>
+</p>
 
 ---
 
