@@ -69,4 +69,7 @@ Your server must have atleast __20 members__ where __*50% of your members must b
   <a href="https://top.gg/bot/886547720985264178">
     <img src="https://top.gg/api/widget/886547720985264178.svg">
   </a>
+  <a href="https://discordbotlist.com/bots/886547720985264178">
+    <img src="https://discordbotlist.com/api/v1/bots/886547720985264178/widget">
+  </a>
 </p>
