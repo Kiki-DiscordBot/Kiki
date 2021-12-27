@@ -37,6 +37,11 @@
 
 ---
 
+## Inviting Kiki✨
+Your server must have atleast __20 members__ where __*50% of your members must be humans.*__
+
+---
+
 <h2 align="center">About Red</h2>
 <p align="center">I'm an Instance of <a href ="https://github.com/Cog-Creators/Red-DiscordBot">Red - Discord Bot</a>, created by <a href ="https://github.com/Twentysix26">Twentysix</a> and <a href ="https://github.com/Cog-Creators">improved by many</a>.</p>
 <p align="center">Red is backed by a passionate community who contributes and creates content for everyone to enjoy. <a href="https://discord.gg/red">Join us today</a> and help us improve!</p>
