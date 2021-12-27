@@ -65,3 +65,8 @@ Your server must have atleast __20 members__ where __*50% of your members must b
     <img src="https://img.shields.io/badge/Red﹣Discord%20Bot-Join-cb533f?style=flat&logo=discord&link=https://discord.gg/red" alt="Red - Discord Bot">
   </a>
 </p>
+<p align="center">
+  <a href="https://top.gg/bot/886547720985264178">
+    <img src="https://top.gg/api/widget/886547720985264178.svg">
+  </a>
+</p>
